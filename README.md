@@ -32,7 +32,7 @@ on a commandline shell interface after compiling run the application by using ./
 
 <h2>Sample output:</h2>
 
-**$ ./Simple_Cryptography_using_VigenereShift fitness**
+**$ ./Simple_Cryptography_using_VigenereShift       fitness**
 
 **plaintext:  the super secret key to losing weight is eating healthy**
 
