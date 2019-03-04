@@ -8,11 +8,11 @@ on a commandline shell interface after compiling run the application by using ./
 
 <h2>Sample output:</h2>
 
-**$ ./caesar 10
+**$ ./Simple_Cryptography_using_CaesarShift 10**
 
-**plaintext:  the super secret to losing weight is the eat healthy
+**plaintext:  the super secret to losing weight is the eat healthy**
 
-**ciphertext: dro cezob combod dy vycsxq gosqrd sc dro okd rokvdri
+**ciphertext: dro cezob combod dy vycsxq gosqrd sc dro okd rokvdri**
 
 
 <h2>Limitations:</h2> 
@@ -32,11 +32,11 @@ on a commandline shell interface after compiling run the application by using ./
 
 <h2>Sample output:</h2>
 
-**$ ./vigenere fitness
+**$ ./Simple_Cryptography_using_VigenereShift fitness**
 
-**plaintext:  the super secret key to losing weight is eating healthy
+**plaintext:  the super secret key to losing weight is eating healthy**
 
-**ciphertext: ypx fyhww axpvwl pmr gs dgxqgt awalpm vw wsyqgt lwsqbal
+**ciphertext: ypx fyhww axpvwl pmr gs dgxqgt awalpm vw wsyqgt lwsqbal**
 
 
 <h2>Limitations:</h2> 
