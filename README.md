@@ -1,6 +1,6 @@
 # Simple_Cryptography-in-C--character-shifting-
 
-Program to cypher user inputted text based on the inputted number user enters in shell. letter wwrapping occuring using modulo operator 
+Program to cypher user inputted text based on the inputted number user enters in shell. letter wrapping occuring using modulo operator 
 
 <h2>Usage:</h2>
 
